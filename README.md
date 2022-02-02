@@ -7,3 +7,6 @@ Kaggle: https://www.kaggle.com/codoes/netflix-recommender-and-eda/notebook (Runn
 For Running this file Please download it and run it on Jupyter Notebook or Open in Google Colab.
 
 There is one Presentation also Explaining about my Project.
+
+For Getting Direct Recommendation Click on this Link: https://colab.research.google.com/drive/17_NOQH6HsxQX8sByTc2bnNlkXTrp_vTu#scrollTo=aspvRU2x-Kyp&line=1&uniqifier=1
+
