@@ -1,5 +1,6 @@
 # Netflix-Recommendation-System
-I have tried to create a recommender system for the Netflix Dataset. I have created a Content Based Recommender System. By Using Cosine Similarity Score I have Recommended Movies.
+In this Project, I created a Content Based Recommender System by Using Term Frequency or Inverse Document Frequency.
+I Performed the Exploratory Data Analysis in Dataset. I have created many visualization to try up to give answers for various questions from graph.
 
 Kaggle: https://www.kaggle.com/codoes/netflix-recommender-and-eda/notebook (Running File in Kaggle)
 
