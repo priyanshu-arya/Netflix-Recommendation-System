@@ -1,6 +1,5 @@
 # Netflix-Recommendation-System
-I have tried to create a recommender system for the Netflix Dataset. This Project tells me the basics how anything can be recommended to the customer/ user. 
-
+I have tried to create a recommender system for the Netflix Dataset. I have created a Content Based Recommender System. By Using Cosine Similarity Score I have Recommended Movies.
 
 Kaggle: https://www.kaggle.com/codoes/netflix-recommender-and-eda/notebook (Running File in Kaggle)
 
