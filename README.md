@@ -12,3 +12,5 @@ For Getting Direct Recommendation Click on this Link: https://colab.research.goo
 
 For Opening Colab File of this Click on this: https://colab.research.google.com/drive/17_NOQH6HsxQX8sByTc2bnNlkXTrp_vTu?usp=sharing
 
+My Tutorial For This Blog: https://priyanshu-arya.medium.com/content-based-recommender-system-4db1a6165b08
+
